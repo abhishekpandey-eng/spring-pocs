@@ -1,3 +1,7 @@
 HELP.md
 mvnw
 mvnw.cmd
+.classpath
+.project
+.settings/
+target/
